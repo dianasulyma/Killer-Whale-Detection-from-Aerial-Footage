@@ -1,0 +1,17 @@
+# DL
+torch
+torchvision
+
+# data
+ultralytics
+opencv-python
+numpy
+pandas
+Pillow
+
+# visalization & metrics
+matplotlib
+seaborn
+scikit-learn
+
+-e .
