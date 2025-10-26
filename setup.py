@@ -34,7 +34,7 @@ setup(
     install_requires=get_requirements("requirements.txt"),
     python_requires=">=3.9",
     classifiers=[
-        "Programming Language : Python : 3.14.0",
+        "Programming Language : Python : 3.12.0",
         "License : MIT License",
     ],
     include_package_data=True,
