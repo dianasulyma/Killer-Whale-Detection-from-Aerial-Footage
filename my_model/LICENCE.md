@@ -5,6 +5,9 @@ Attribution-NonCommercial-ShareAlike 4.0 International License.
 This project uses images from the [**Orca Sex Classification Dataset**](https://www.kaggle.com/datasets/ayodejiadeyemo/orca-sex-classification-dataset), licensed under **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**.
 The dataset’s creators retain all rights to their original work.
 
+Images are used solely for research and educational purposes.
+Derived annotations and models are shared under the same license.
+
 ### Full license text available at:
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
