@@ -10,7 +10,7 @@ Derived annotations and models are shared under the **same license**.
 
 
 ### Code Attribution 
-This code in parts is adapted from ***EJ Technology*** Evan Juras' guidance on [**How to Train YOLO 11 Object Detection Models Locally with NVIDIA**](https://www.ejtech.io/learn/train-yolo-models) as well as associated [Colab notebook](https://colab.research.google.com/github/EdjeElectronics/Train-and-Deploy-YOLO-Models/blob/main/Train_YOLO_Models.ipynb#scrollTo=DfKspYasCzC8) and [YouTube video](https://www.youtube.com/watch?v=r0RspiLG260&t=628s).  
+This code in parts is adapted from ***EJ Technology*** Evan Juras' guidance on [**How to Train YOLO 11 Object Detection Models Locally with NVIDIA**](https://www.ejtech.io/learn/train-yolo-models) as well as associated [Colab notebook](https://colab.research.google.com/github/EdjeElectronics/Train-and-Deploy-YOLO-Models/blob/main/Train_YOLO_Models.ipynb#scrollTo=DfKspYasCzC8) for running the model using Colab and [YouTube video](https://www.youtube.com/watch?v=r0RspiLG260&t=628s).  
 
 ### Video Attribution 
 Videos used for this project come from a variety of public domain souces including Vimeo and Pexels, each licenced under **CC BY**. Videos are used solely for **research and educational purposes**.   
