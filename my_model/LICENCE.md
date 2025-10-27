@@ -1,5 +1,13 @@
-This work is licensed under the Creative Commons
+Some contents of this work is licensed under the Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+### Dataset Attribution:
+This project uses images from the “Orca Sex Classification Dataset” dataset,
+licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+The dataset’s creators retain all rights to their original work.
+
+### Full license text available at:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ### You are free to:
 - Share — copy and redistribute the material in any medium or format
@@ -15,11 +23,3 @@ Attribution-NonCommercial-ShareAlike 4.0 International License.
 - ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
  
 - No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
-### Dataset Attribution:
-This project uses images from the “Orca Sex Classification Dataset” dataset,
-licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
-The dataset’s creators retain all rights to their original work.
-
-### Full license text available at:
-https://creativecommons.org/licenses/by-nc-sa/4.0/
