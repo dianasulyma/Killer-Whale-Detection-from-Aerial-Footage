@@ -1,4 +1,4 @@
-# 🐋 Whale Detection from Aerial Footage with YOLO11
+# 🐋 Whale Detection from Video Footage with YOLO11
 
 ### Dataset Attribution
 
