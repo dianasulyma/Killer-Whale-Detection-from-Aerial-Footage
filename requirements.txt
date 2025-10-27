@@ -1,15 +1,18 @@
-# DL
+# Labels 
+label-studio
+
+# Deep Learning
 torch
 torchvision
-
-# data
 ultralytics
-opencv-python
+
+# Data Processing
 numpy
 pandas
+opencv-python
 Pillow
 
-# visalization & metrics
+# Visualization & Metrics
 matplotlib
 seaborn
 scikit-learn
