@@ -16,4 +16,4 @@ This code in parts is adapted from ***EJ Technology*** Evan Juras' guidance on [
 Videos used for this project come from a variety of public domain souces including Vimeo and Pexels, each licenced under **CC BY**. Videos are used solely for **research and educational purposes**.   
 
 ### Project Description 
-This project is focused on object detection for killer whales in opean ocean from video feeds. (Cont'd)
+This project is focused on object detection for killer whales from video feeds. (Cont'd)
