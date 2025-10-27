@@ -16,5 +16,10 @@ Pillow
 matplotlib
 seaborn
 scikit-learn
+glob
+Image
+
+# other 
+yaml
 
 -e .
