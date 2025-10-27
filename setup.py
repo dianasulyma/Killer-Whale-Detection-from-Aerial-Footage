@@ -35,7 +35,7 @@ setup(
     python_requires=">=3.9",
     classifiers=[
         "Programming Language : Python : 3.12.0",
-        "License : CC BY-NC-SA 4.0",
+        "License : Apache License Version 2.0,",
     ],
     include_package_data=True,
 )
