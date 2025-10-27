@@ -2,8 +2,7 @@ Some contents of this work is licensed under the Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 ### Dataset Attribution:
-This project uses images from the “Orca Sex Classification Dataset” dataset,
-licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+This project uses images from the [**Orca Sex Classification Dataset**](https://www.kaggle.com/datasets/ayodejiadeyemo/orca-sex-classification-dataset), licensed under **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**.
 The dataset’s creators retain all rights to their original work.
 
 ### Full license text available at:
